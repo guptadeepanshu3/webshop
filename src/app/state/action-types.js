@@ -1,0 +1,13 @@
+export const TOP_PRODUCTS = 'FETCH_TOP_PRODUCTS_HOME_PAGE';
+export const ALL_PRODUCTS = 'ALL_PRODUCTS_PRODUCTS_PAGE';
+export const SEARCH_PRODUCT = 'SEARCH_PRODUCT_PRODUCTS_PAGE';
+export const CATEGORY_PRODUCTS = 'SELECTED_CATEGORY_PRODUCTS'; // fetch products for particular category
+export const PRODUCTS_LOADED = 'PRODUCTS_LOADED';   // for displaying loader
+export const SET_PRODUCT = 'FETCH_PRODUCT_FOR_PRODUCT_DESCRIPTION_PAGE';
+export const ADD_CART = 'ADD_ITEM_TO_CART';
+export const REMOVE_CART = 'REMOVE_ITEM_FROM_CART';
+export const REMOVE_ALL = 'REMOVE_ALL_ITEMS_FROM_CART';
+export const SET_CATEGORIES = 'CATEGORIES';  // fetch all categories for Categories page
+export const GET_USER = 'GET_USER_LOGIN_DETAILS';
+export const LOG_OUT = 'LOGGED_OUT';
+export const SET_ERR = 'SET_LOGIN_ERR';
